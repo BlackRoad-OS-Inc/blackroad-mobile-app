@@ -61,7 +61,7 @@ cd android
 
 ## License
 
-MIT License
+BlackRoad Proprietary License
 
 ---
 
