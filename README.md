@@ -1,3 +1,11 @@
+# blackroad-mobile-app
+
+> BlackRoad OS mobile app — iOS and Android client
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/blackboxprogramming/blackroad-mobile-app.svg?style=social&label=Star)](https://github.com/blackboxprogramming/blackroad-mobile-app)
 [![GitHub forks](https://img.shields.io/github/forks/blackboxprogramming/blackroad-mobile-app.svg?style=social&label=Fork)](https://github.com/blackboxprogramming/blackroad-mobile-app/fork)
